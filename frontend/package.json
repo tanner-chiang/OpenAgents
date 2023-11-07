@@ -27,7 +27,7 @@
     "@react-spring/web": "^9.7.2",
     "@tabler/icons-react": "^2.9.0",
     "@uiw/codemirror-theme-okaidia": "^4.19.16",
-    "@uiw/codemirror-theme-vscode": "^4.19.16",
+    "@uiw/codemirror-theme-vscode": "^4.21.20",
     "@uiw/react-codemirror": "^4.19.16",
     "antd": "^5.5.2",
     "chonky": "^2.3.2",
